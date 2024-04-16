@@ -6,6 +6,7 @@ O projeto tem como objetivo montar nossa primeira página web que será a replic
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
+👉[Aqui está o meu currículo Online:](https://raw.githack.com/ozzysousa/Meu-Portifolio-HTML-e-CSS-Curso/main/index.html)
 
 **Fork do projeto:** 
 
